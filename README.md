@@ -16,7 +16,7 @@ This application was created to be a back end for an E-Commerce website using Ob
 This application is dependant on Node.js, Express.js, Sequelize, dotenv, and MySQL2. Make sure to also add a .env file to hold your MySQL username and password so that private information is kept secure.
 
 ## Walkthrough Video
-
+https://drive.google.com/file/d/19PHDZXyKbnEQiZ-Hh-qY73LHNs6VsoE5/view
 
 ## Here's a preview of what the application looks like when testing with Insomnia
 #### GET all categories
